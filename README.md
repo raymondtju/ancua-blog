@@ -2,7 +2,7 @@
 
 Ancua Blog is a powerful and flexible blogging platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a user-friendly interface for creating and managing blog posts, allowing users to easily share their thoughts and ideas with the world.
 
-With Ancua Blog, you can customize the design and layout of your blog, manage user authentication and authorization, and even integrate social media sharing functionality. It also supports features like categories and tags, allowing you to organize your blog posts and make them easily discoverable.
+With Ancua Blog, you can customize the design and layout of your blog, manage user authentication and authorization, and even integrate social media sharing functionality. It also supports features like categories and tags, allowing you to organize your blog posts and make them easily discoverable. Ancua blogs also provide simple CMS for admin make changes to the blog. Users can also like and comment on blog posts, allowing you to engage with your audience and build a community around your blog.
 
 Whether you're a beginner looking to start your own blog or an experienced developer wanting to enhance your blogging experience, Ancua Blog is the perfect solution for you. Get started today and unleash your creativity!
 
